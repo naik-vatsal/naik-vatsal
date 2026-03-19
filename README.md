@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+distributed+systems+that+don%27t+page+you+at+3am;500K%2B+msg%2Fday+in+production+(so+far);MS+Information+Systems+%40+Northeastern+%2725;Python+%7C+Node.js+%7C+AWS+%7C+Terraform+%7C+Docker;Yes%2C+I+write+unit+tests.+Sometimes." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+distributed+systems;500K%2B+msg%2Fday+in+production+(so+far);MS+Information+Systems+%40+Northeastern+%2725;Python+%7C+Node.js+%7C+AWS+%7C+Terraform+%7C+Docker;Yes%2C+I+write+unit+tests.+Sometimes." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@ class VatsalNaik:
         self.name       = "Vatsal Naik"
         self.location   = "Boston, MA 🇺🇸"
         self.education  = "MS Information Systems @ Northeastern University (May 2026)"
-        self.experience = "4+ years building backends that handle real traffic"
+        self.experience = "3+ years building backends that handle real traffic"
         self.currently  = "Surviving grad school and writing Terraform configs at the same time"
         self.fun_fact   = "I once fixed a production bug faster than it took to explain what the bug was"
 
