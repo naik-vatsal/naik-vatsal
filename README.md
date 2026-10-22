@@ -12,7 +12,9 @@
 
 <!-- Visitor counter + profile views -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=naik-vatsal.naik-vatsal" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/naik-vatsal?style=for-the-badge&color=7c3aed&label=FOLLOWERS" alt="Followers"/>
+<a href="https://github.com/naik-vatsal?tab=followers">
+  <img src="https://img.shields.io/github/followers/naik-vatsal?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github&logoColor=white" alt="GitHub Followers"/>
+</a>
 
 </div>
 
