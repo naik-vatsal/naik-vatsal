@@ -11,8 +11,7 @@
 <br/>
 
 <!-- Visitor counter + profile views -->
-<img src="https://komarev.com/ghpvc/?username=naik-vatsal&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
+<img src="https://visitor-badge.laobi.icu/badge?page_id=naik-vatsal.naik-vatsal" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/naik-vatsal?style=for-the-badge&color=7c3aed&label=FOLLOWERS" alt="Followers"/>
 
 </div>
